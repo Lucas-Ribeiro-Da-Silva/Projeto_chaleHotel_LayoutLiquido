@@ -6,8 +6,9 @@ Aplicando css no layout, foi possível determinar conteúdos que estarão sempre
 
 
 - Tela Cheia
-![image](https://user-images.githubusercontent.com/101514539/187328299-e3f3183c-21ce-4825-a27c-1fa75875439a.png)
+![cheia](https://user-images.githubusercontent.com/101514539/187333508-8bebb822-a248-4735-9f1a-6abc3630413a.png)
 
 - Imagem com a largura minima ao reduzir tamanho de tela
-![imagemDiminuida](https://user-images.githubusercontent.com/101514539/187328629-1557bc78-9f8b-443b-be15-b9e4ecbcd3be.png)
+![min](https://user-images.githubusercontent.com/101514539/187333546-f333b0d6-329d-4f0c-bbcf-0b8ea3ac7391.png)
+
 
